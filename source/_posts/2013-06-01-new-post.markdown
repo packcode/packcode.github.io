@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "new post"
+title: "Test"
 date: 2013-06-01 23:03
 comments: true
 categories: 
-Author: Nitish Mallick
+Author:  Nitish Mallick
 
 ---

@@ -7,3 +7,6 @@ categories:
 Author:  Nitish Mallick
 
 ---
+
+
+{% img http://hd.wallpaperswide.com/thumbs/android_logo_2-t2.jpg  %}

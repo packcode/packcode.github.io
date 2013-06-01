@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test"
+title: "Crowdsourcing"
 date: 2013-06-01 23:03
 comments: true
 categories: 
@@ -8,5 +8,12 @@ Author:  Nitish Mallick
 
 ---
 
+Crowdsourcing is, according to the Merriam-Webster Dictionary, the practice of obtaining needed services, ideas, or content by soliciting contributions from a large group of people, and especially from an online community, rather than from traditional employees or suppliers.
+Often used to subdivide tedious work or to fund-raise startup companies and charities, this process can occur both online and offline.
+  It combines the efforts of crowds of self-identified volunteers or part-time workers, where each one on their own initiative adds a small portion that combines into a greater result. Crowdsourcing is different from an ordinary outsourcing since it is a task or problem that is outsourced to an undefined public rather than to a specific, named group.
 
-{% img http://hd.wallpaperswide.com/thumbs/android_logo_2-t2.jpg  %}
+Definitions:
+
+"Crowdsourcing is a type of participative online activity in which an individual, an institution, a non-profit organization, or company proposes to a group of individuals of varying knowledge, heterogeneity, and number, via a flexible open call, the voluntary undertaking of a task. The undertaking of the task, of variable complexity and modularity, and in which the crowd should participate bringing their work, money, knowledge and/or experience, always entails mutual benefit. The user will receive the satisfaction of a given type of need, be it economic, social recognition, self-esteem, or the development of individual skills, while the crowdsourcer will obtain and utilize to their advantage that what the user has brought to the venture, whose form will depend on the type of activity undertaken"
+
+

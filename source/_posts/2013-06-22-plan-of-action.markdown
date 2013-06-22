@@ -7,9 +7,9 @@ categories:
 Author:  Nitish Mallick
 ---
 
-                                              <<Documentation Version 1.0>>
+                              <<Documentation Version 1.0>>
                                                                                                                                         
-                                                        “HEALTH”
+                                       “HEALTH”
 
 We have total 6 ideas in Health sector. The 6th one is “State Wise Sanitation Facilities Available in India”, although it is related with health but it seems to be the project of Sanitation sector. So, we will be working on only 5 ideas. Those 5 ideas are:
 

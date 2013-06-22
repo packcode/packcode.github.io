@@ -4,7 +4,7 @@
   <title><![CDATA[Packcode Blog]]></title>
   <link href="http://packcode.github.io/atom.xml" rel="self"/>
   <link href="http://packcode.github.io/"/>
-  <updated>2013-06-22T11:35:19+05:30</updated>
+  <updated>2013-06-22T11:42:12+05:30</updated>
   <id>http://packcode.github.io/</id>
   <author>
     <name><![CDATA[Nitish Mallick]]></name>
@@ -18,9 +18,9 @@
     <link href="http://packcode.github.io/blog/2013/06/22/plan-of-action/"/>
     <updated>2013-06-22T11:24:00+05:30</updated>
     <id>http://packcode.github.io/blog/2013/06/22/plan-of-action</id>
-    <content type="html"><![CDATA[<pre><code>                                               &lt;&lt;Documentation Version 1.0&gt;&gt;
+    <content type="html"><![CDATA[<pre><code>                                            &lt;&lt;Documentation Version 1.0&gt;&gt;
 
-                                                        “HEALTH”
+                                                     “HEALTH”
 </code></pre>
 
 <p>We have total 6 ideas in Health sector. The 6th one is “State Wise Sanitation Facilities Available in India”, although it is related with health but it seems to be the project of Sanitation sector. So, we will be working on only 5 ideas. Those 5 ideas are:</p>
@@ -55,7 +55,7 @@ First Aid tips
 Daily Health meter
 Common disease and Medicine info.</p>
 
-<p>2) Community Information on Healthcare Services in India &amp; People Health Data Management (Name of the application yet to be decided):
+<p>2) Community Information on Healthcare Services in India &amp; People Health Data Management (Stay-Fit):
 The project is divided in two parts:
 Community information on health-care
 GIS based location system for locating nearest hospitals.

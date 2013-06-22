@@ -7,9 +7,9 @@ categories:
 Author:  Nitish Mallick
 ---
 
-                                                <<Documentation Version 1.0>>
+                                              <<Documentation Version 1.0>>
                                                                                                                                         
-                                                         “HEALTH”
+                                                        “HEALTH”
 
 We have total 6 ideas in Health sector. The 6th one is “State Wise Sanitation Facilities Available in India”, although it is related with health but it seems to be the project of Sanitation sector. So, we will be working on only 5 ideas. Those 5 ideas are:
 
@@ -26,8 +26,8 @@ No. of projects in Health:
 1) Medi-Friend, Open blood bank & Promotion of Breast Feeding
 2) Community Information on Healthcare Services in India & People Health Data Management
 
-1) Medi-Friend:
-	In this project we are going to merge Open blood bank &  Promotion of Breast Feeding as its part/feature.
+        1) Medi-Friend:
+In this project we are going to merge Open blood bank &  Promotion of Breast Feeding as its part/feature.
 The application would consist of two parts:
 Acceptor OR Donor
 Open blood bank
@@ -40,7 +40,7 @@ First Aid tips
 Daily Health meter
 Common disease and Medicine info.
 
-2) Community Information on Healthcare Services in India & People Health Data Management (Stay-Fit):
+        2) Community Information on Healthcare Services in India & People Health Data Management (Stay-Fit):
 The project is divided in two parts:
 Community information on health-care
 GIS based location system for locating nearest hospitals.
